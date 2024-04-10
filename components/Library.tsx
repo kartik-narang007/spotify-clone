@@ -27,7 +27,7 @@ const Library = () => {
           className="
         text-neutral-400
         cursor-pointer
-        hover: text-white
+        hover:text-white
         transition
         "
         />
