@@ -22,11 +22,11 @@ const SidebarItem: React.FC<SidebarItemsProps> = ({
         `
     flex
     flex-row
-    h-auto,
-    items-center,
+    h-auto
+    items-center
     w-full
     gap-x-4
-    font-meduim
+    font-medium
     text-md
     cursor-pointer
     hover:text-white
