@@ -34,7 +34,7 @@ export default async function Home() {
             gap-3
             mt-4
             ">
-              <ListItem image="/images/liked.png" name="Liked Songs" href="liked"/>
+              <ListItem image="/images/liked.png" name="Liked Songs" href="/liked"/>
             </div>
           </div>
           </Header>
