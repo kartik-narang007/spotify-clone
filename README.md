@@ -34,12 +34,13 @@
 </div>
 <h3>Search and Like Functionality:</h3>
 <img src="https://i.postimg.cc/VNfkqS1B/Can-Play-Music-on-Any-Page.png" alt="project-screenshot" width="1010">
-<h3>Login and Upload Modal:</h3>
-<div>
-<img src="https://i.postimg.cc/mgGDrX5n/Login-Modal.png" alt="project-screenshot" width="49.5%">
+<h3>Login Modal:</h3>
 
-<img src="https://i.postimg.cc/0ydNKGgy/Song-Upload-Modal.png" alt="project-screenshot" width="49.5%">
-</div>
+<img src="https://i.postimg.cc/mgGDrX5n/Login-Modal.png" alt="project-screenshot" width="100%">
+<h3>Login Modal:</h3>
+
+<img src="https://i.postimg.cc/0ydNKGgy/Song-Upload-Modal.png" alt="project-screenshot" width="100%">
+
   
   
 <h2>🧐 Features:</h2>
